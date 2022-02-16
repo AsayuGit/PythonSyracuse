@@ -1,0 +1,6 @@
+The flightTime for 15 is 17
+	The history is [15, 46, 23, 70, 35, 106, 53, 160, 80, 40, 20, 10, 5, 16, 8, 4, 2, 1]
+The flightTime for 46 is 16
+	The history is [46, 23, 70, 35, 106, 53, 160, 80, 40, 20, 10, 5, 16, 8, 4, 2, 1]
+The flightTime for 128 is 7
+	The history is [128, 64, 32, 16, 8, 4, 2, 1]

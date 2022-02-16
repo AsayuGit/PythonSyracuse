@@ -1,3 +1,4 @@
+# Killian RAIMBAUD
 def syracuse(n):
     print("n : ", n)
     if (n == 1):
